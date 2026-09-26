@@ -1,1 +1,1 @@
-# https-hq.ssrn.com-UserHome.cfm-redirectFrom-true
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6230098
